@@ -1,3 +1,5 @@
+              Hello World ! 
+            
 - 👋 Hi, I’m @GDIATTA. I live in French.
 - 👀 I’m interested in IA.
 - 🌱 I'm currently learning Data Analyse/ Data Scientist/ Data Engineer.
