@@ -1,7 +1,7 @@
             #  Hello World ! : here is my workspace
             
 - 👋 Hi, I’m @GDIATTA. I live in French.
-- 👀 I’m interested in IA.
+- 👀 I’m interested in IA and Software developer.
 - 🌱 I'm currently learning Data Analyse/ Data Scientist/ Data Engineer.
 - 🌱 Passionate about solving problems of Data with technology and creating different solutions.
 - 💞️ Stay free to know a liitle more about my life, follow me on
