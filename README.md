@@ -1,15 +1,13 @@
             #  Hello World ! : here is my workspace
             
-- 👋 Hi, I’m @GDIATTA. I live in French.
-- 👀 I’m interested in IA and Software developer.
-- 🌱 I've learned Data Analyse/ Data Scientist/ Data Engineer and some tools of development software. Currently I would like to improve my knowledges.
-- 🌱 Passionate about solving problems of Data with technology and creating different solutions.
-- 💞️ Stay free to know a liitle more about my life, follow me on
-           my networks where I share a little more about myself.
-- 📫  I love to make new friends and learn new things.
-- 📫  Passionate about football.
-- 📫  I love to discuss new things improving my knowledges.
-- 📫  I like sport, music and cooking.
+- 👋 **Hi there, I’m @GDIATTA**.
+- 🇫🇷 Based in France
+- 👀 I’m passionate about **Data & AI, AI Agents, Automation**, and **Software Development**.
+- 🌱 I’m currently an **expert and instructor** in these fields, teaching students from leading schools. Teaching allows me to keep learning, exchanging ideas, and growing every day.
+- 💡 I love solving **Data and AI challenges**, helping companies grow through technology, and designing innovative solutions.
+- 💬 I enjoy connecting with new people, sharing knowledge, and discussing new technologies.
+- ⚽ Outside of tech, I’m passionate about **football, music, sports**, and **cooking**.
+- 🌐 Feel free to follow me on my networks — I often share insights, projects, and a bit more about my journey!
 
 <!---
 GDIATTA/GDIATTA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
