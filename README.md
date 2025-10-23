@@ -48,10 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 ETL
 <p align="left">
-**Talend for Intégration Data & Big Data, NiFi, Coníuent Kafka, Airíow, Apache Flink, Apache Beam, Spark**
+Talend for Intégration Data & Big Data, NiFi, Coníuent Kafka, Airíow, Apache Flink, Apache Beam, Spark
 </p>
 
 ### 💻 AI Agent and Automatisation
 <p align="left">
-**n8n and Builder-Agents(Open AI)**
+n8n and Builder-Agents(Open AI)
 </p>
