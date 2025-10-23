@@ -48,5 +48,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 ETL
 <p align="left">
-Talend for Intégration Data & Big Data, NiFi, Coníuent Kafka, Airíow, Apache Flink, Apache Beam, Spark
+**Talend for Intégration Data & Big Data, NiFi, Coníuent Kafka, Airíow, Apache Flink, Apache Beam, Spark**
+</p>
+
+### 💻 AI Agent and Automatisation
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="N8n" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/builder-agent/builder-agent-original.svg" alt="Builder-Agent" width="40" height="40"/>
 </p>
