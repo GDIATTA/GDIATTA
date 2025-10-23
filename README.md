@@ -46,12 +46,19 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-### 💻 ETL
+### 💻 ETL  
 <p align="left">
-Talend for Intégration Data & Big Data, NiFi, Coníuent Kafka, Airíow, Apache Flink, Apache Beam, Spark
+<b>Talend</b> for Data & Big Data Integration, <b>Apache NiFi</b>, <b>Confluent Kafka</b>, <b>Airflow</b>, <b>Apache Flink</b>, <b>Apache Beam</b>, <b>Apache Spark</b>.
 </p>
 
-### 💻 AI Agent and Automatisation
+### 🤖 AI Agent & Automation  
 <p align="left">
-n8n and Builder-Agents(Open AI)
+<b>n8n</b> and <b>Builder Agents (OpenAI)</b> for workflow automation, data scraping, and intelligent task orchestration.
+</p>
+
+### ☁️ Cloud Platforms  
+<p align="left">
+<b>AWS</b> (S3, DynamoDB, RDS, Athena, Redshift, Glue, etc.)<br>
+<b>Microsoft Azure</b> (Azure Storage, Cloud SQL, Cosmos DB, Data Factory, Databricks, Synapse Analytics, etc.)<br>
+<b>Google Cloud Platform (GCP)</b> (Cloud Storage, Bigtable, Cloud SQL, BigQuery, Dataflow, etc.)
 </p>
