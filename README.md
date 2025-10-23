@@ -59,3 +59,7 @@ You can click the Preview link to take a look at your changes.
 <b>Microsoft Azure</b> (Azure Storage, Cloud SQL, Cosmos DB, Data Factory, Databricks, Synapse Analytics, etc.)<br>
 <b>Google Cloud Platform (GCP)</b> (Cloud Storage, Bigtable, Cloud SQL, BigQuery, Dataflow, etc.)
 </p>
+
+## 📊 GitHub Stats
+
+![GDIATTA's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDIATTA&theme=react-dark&hide_border=true&area=true)
