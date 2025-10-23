@@ -45,3 +45,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
+
+### 💻 ETL
+<p align="left">
+Talend for Intégration Data & Big Data, NiFi, Coníuent Kafka, Airíow, Apache Flink, Apache Beam, Spark
+</p>
